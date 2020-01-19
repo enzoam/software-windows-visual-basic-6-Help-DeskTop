@@ -1,0 +1,17 @@
+Line 16: Class ComctlLib.Toolbar of control Tlbtoolbar was not a loaded control class.
+Line 42: Class ComctlLib.ImageList of control imltoolbar was not a loaded control class.
+Line 23: The property name _ExtentX in Tlbtoolbar is invalid.
+Line 24: The property name _ExtentY in Tlbtoolbar is invalid.
+Line 25: The property name ButtonWidth in Tlbtoolbar is invalid.
+Line 26: The property name ButtonHeight in Tlbtoolbar is invalid.
+Line 28: The property name ImageList in Tlbtoolbar is invalid.
+Line 29: The property name _Version in Tlbtoolbar is invalid.
+Line 39: The property name Buttons in Tlbtoolbar is invalid.
+Line 16: Property MouseIcon in Tlbtoolbar could not be set.
+Line 45: The property name _ExtentX in imltoolbar is invalid.
+Line 46: The property name _ExtentY in imltoolbar is invalid.
+Line 48: The property name ImageWidth in imltoolbar is invalid.
+Line 49: The property name ImageHeight in imltoolbar is invalid.
+Line 50: The property name MaskColor in imltoolbar is invalid.
+Line 51: The property name _Version in imltoolbar is invalid.
+Line 59: The property name Images in imltoolbar is invalid.
